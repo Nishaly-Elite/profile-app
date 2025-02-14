@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'profile-profile',
   template: `
     <p>
-      profile works!
+      profile Changes works!
     </p>
   `,
   styles: [
